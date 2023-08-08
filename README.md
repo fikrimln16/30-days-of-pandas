@@ -8,12 +8,4 @@ The "Collection of Questions and Answers from the 30-Day Pandas Challenge" serve
 
 In addition, this repository also includes SQL solutions for some of the challenges. These SQL solutions provide an alternative perspective on solving the same data manipulation problems using SQL queries.
 
-## Features
 
-- **Daily Challenges**: The collection includes a challenge for each day, spanning over 30 days. Each challenge focuses on a specific aspect of data manipulation and analysis using Pandas.
-
-- **Detailed Explanations**: For each challenge, you will find a well-documented explanation of the problem statement, the Pandas functions or SQL queries required to solve it, and a step-by-step breakdown of the solution.
-
-- **Code Examples**: Code examples are provided to illustrate how to implement the solutions using Pandas or SQL. These examples help users understand the practical application of various methods.
-
-- **Variety of Topics**: The challenges cover a variety of topics, including data loading, data cleaning, data transformation, aggregation, filtering, merging, and more. This ensures a comprehensive understanding of data manipulation techniques.
