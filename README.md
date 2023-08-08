@@ -1,6 +1,8 @@
 # Collection of Questions and Answers from the 30-Day Pandas Challenge
 
-![Pandas and SQL](30-days-of-pandas.png)
+<p align="center">
+  <img src="pandas-sql.png" alt="Pandas and SQL">
+</p>
 
 Welcome to the "Collection of Questions and Answers from the 30-Day Pandas Challenge"! This repository contains a comprehensive set of questions and corresponding answers from the 30-Day Pandas Challenge, designed to help individuals enhance their proficiency in using the Pandas library for data manipulation and analysis.
 
