@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-select s.name
+SELECT s.name
 FROM salesperson s
 LEFT JOIN orders o ON (o.sales_id=s.sales_id)
 LEFT JOIN company c ON (o.com_id=c.com_id)
